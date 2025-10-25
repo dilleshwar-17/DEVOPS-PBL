@@ -1,7 +1,7 @@
 {
-  "name": "amazon-clone",
+  "name": "tevra-online",
   "version": "1.0.0",
-  "description": "A simplified Amazon clone with basic e-commerce functionalities",
+  "description": "A simplified e-commerce website with basic functionalities",
   "main": "server.js",
   "scripts": {
     "start": "node server.js",

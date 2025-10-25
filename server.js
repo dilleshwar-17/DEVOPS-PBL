@@ -46,5 +46,5 @@ app.get('/cart.html', (req, res) => {
 });
 
 app.listen(PORT, () => {
-    console.log(`Server running on http://localhost:${PORT}`);
+    console.log(`TEVRA Online server running on http://localhost:${PORT}`);
 });

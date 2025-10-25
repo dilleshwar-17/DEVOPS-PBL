@@ -1,4 +1,4 @@
-# TODO: Clone Amazon Website with DevOps
+# TODO: TEVRA Online - E-commerce Website with DevOps
 
 ## Overview
 Create a simplified e-commerce website mimicking basic Amazon functionalities: product listing, search, cart, checkout. Use DevOps tools: Git, Docker, GitHub Actions.
