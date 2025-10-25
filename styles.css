@@ -190,3 +190,95 @@ main {
     cursor: pointer;
     font-size: 16px;
 }
+
+.login-form, .signup-form {
+    background-color: white;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    max-width: 400px;
+    margin: 50px auto;
+}
+
+.form-group {
+    margin-bottom: 15px;
+}
+
+.form-group label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+}
+
+.form-group input {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    font-size: 16px;
+}
+
+.login-form button, .signup-form button {
+    width: 100%;
+    padding: 12px;
+    background-color: #ffa41c;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 16px;
+    margin-top: 10px;
+}
+
+.login-form button:hover, .signup-form button:hover {
+    background-color: #ff9900;
+}
+
+.login-form p, .signup-form p {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.login-form a, .signup-form a {
+    color: #0066c0;
+    text-decoration: none;
+}
+
+.reviews {
+    margin-top: 20px;
+}
+
+.review {
+    background-color: #f8f8f8;
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 4px;
+}
+
+.review h4 {
+    margin: 0 0 5px 0;
+}
+
+.review p {
+    margin: 5px 0;
+}
+
+.add-review {
+    margin-top: 20px;
+}
+
+.add-review textarea {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    resize: vertical;
+}
+
+.add-review button {
+    margin-top: 10px;
+    padding: 8px 16px;
+    background-color: #ffa41c;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
